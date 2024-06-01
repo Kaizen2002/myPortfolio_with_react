@@ -8,7 +8,7 @@ const Navbar = () => {
     };
 
     return (
-        <nav className="w-full bg-[#ffffff]  fixed z-1 h-16 flex justify-between items-center px-10 font-Verdana shadow-xl ">
+        <nav className="w-full bg-[#ffffff]  fixed z-10 h-16 flex justify-between items-center px-10 font-Verdana shadow-xl ">
             <div className="logo  text-base tracking-widest text-blue-700 font-bold">
                 <a href="/">JYOTIRMAY</a>
             </div>
