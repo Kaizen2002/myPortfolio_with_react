@@ -3,7 +3,7 @@ import React from 'react'
 function Project() {
     return (
         <div className='w-full bg-black '>
-            <div className="project-container p-5 flex flex-col gap-2">
+            <div className="project-container p-5 flex flex-col gap-2 md:w-1/2 md:mx-auto">
                 <div className="text-center text-white tracking-widest text-3xl font-normal mt-10 py-2">PROJECTS</div>
                 <div className=' text-center text-white py-2'><i>Remember to look</i></div>
                 <div className="projects-list flex flex-col">
